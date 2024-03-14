@@ -179,7 +179,7 @@ Upon completion of the initial model(s), we will evaluate and compare them. Afte
     \hline
     Frequency setup recommendation model(s) & 3/13/23 - 3/27/24 \\
     \hline
-    Comprehensive evaluation of recommendation model(s) \\
+    Comprehensive evaluation of recommendation model(s) & 3/27/24 - 4/3/24 \\
     \hline
     SIEDS paper due & 4/7/24 \\
     \hline
